@@ -1,0 +1,2 @@
+# isikukood
+Isikukoodi valideerimine (PHP)
